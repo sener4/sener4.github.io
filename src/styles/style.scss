@@ -1,0 +1,30 @@
+a {
+    cursor: pointer;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.card {
+    -webkit-box-shadow: 10px 10px 30px -3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 30px -3px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 30px -3px rgba(0, 0, 0, 0.75);
+}
+
+.card-details {
+    display: flex;
+}
+
+.row {
+    max-width: 1400px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-trash {
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}
